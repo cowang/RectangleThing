@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.fx.ide.jdt.core.JAVAFX_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/JavaFX/javafx-sdk-17.0.2/lib/javafx.base.jar" sourcepath="C:/JavaFX/javafx-sdk-17.0.2/src.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/JavaFX/javafx-sdk-17.0.2/openjfx-17.0.2-javadoc.zip!/javafx-17.0.2-javadoc"/>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/JavaFX/javafx-sdk-17.0.2/lib/javafx.controls.jar" sourcepath="C:/JavaFX/javafx-sdk-17.0.2/src.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/JavaFX/javafx-sdk-17.0.2/openjfx-17.0.2-javadoc.zip!/javafx-17.0.2-javadoc"/>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/JavaFX/javafx-sdk-17.0.2/lib/javafx.fxml.jar" sourcepath="C:/JavaFX/javafx-sdk-17.0.2/src.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/JavaFX/javafx-sdk-17.0.2/openjfx-17.0.2-javadoc.zip!/javafx-17.0.2-javadoc"/>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/JavaFX/javafx-sdk-17.0.2/lib/javafx.graphics.jar" sourcepath="C:/JavaFX/javafx-sdk-17.0.2/src.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/JavaFX/javafx-sdk-17.0.2/openjfx-17.0.2-javadoc.zip!/javafx-17.0.2-javadoc"/>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/JavaFX/javafx-sdk-17.0.2/lib/javafx.media.jar" sourcepath="C:/JavaFX/javafx-sdk-17.0.2/src.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/JavaFX/javafx-sdk-17.0.2/openjfx-17.0.2-javadoc.zip!/javafx-17.0.2-javadoc"/>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/JavaFX/javafx-sdk-17.0.2/lib/javafx.swing.jar" sourcepath="C:/JavaFX/javafx-sdk-17.0.2/src.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/JavaFX/javafx-sdk-17.0.2/openjfx-17.0.2-javadoc.zip!/javafx-17.0.2-javadoc"/>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/JavaFX/javafx-sdk-17.0.2/lib/javafx.web.jar" sourcepath="C:/JavaFX/javafx-sdk-17.0.2/src.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/JavaFX/javafx-sdk-17.0.2/openjfx-17.0.2-javadoc.zip!/javafx-17.0.2-javadoc"/>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/JavaFX/javafx-sdk-17.0.2/lib/javafx-swt.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
